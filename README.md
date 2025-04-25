@@ -1,6 +1,6 @@
 # intel-drivers
 
-Modified installation to enable driver for **Intel I225-V** adapter
+Modified installation to enable driver for **Intel I226-V** adapter
 on Windows Server 2022.
 
 Intel Ethernet drivers must be manually fixed to enable installation of Windows Servers
